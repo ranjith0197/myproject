@@ -15,6 +15,7 @@ public class BankInfo extends AxisBank{
 		// TODO Auto-generated method stub
 		super.deposit();
 		System.out.println("gggg");
+		System.out.println("oo");
 		System.out.println("deposit 2");
 	}
 	public static void main(String[] args) {
